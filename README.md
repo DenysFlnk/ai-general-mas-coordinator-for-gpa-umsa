@@ -6,6 +6,8 @@
 
 ---
 
+## AFTER ALL THE TASKS DONE - DON'T FORGET TO REMOVE API KEYs FROM core/config.json
+
 ### Task 1: Preparation of docker compose with all the services:
 <details>
 <summary>Task 1</summary>
